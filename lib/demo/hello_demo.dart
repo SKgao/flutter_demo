@@ -8,7 +8,7 @@ class Hello extends StatelessWidget {
         'hello world~',
         textDirection: TextDirection.ltr,
         style: TextStyle(
-          fontSize: 40.0,
+          fontSize: 32.0,
           fontWeight: FontWeight.bold,
           color: Colors.yellow
         )
