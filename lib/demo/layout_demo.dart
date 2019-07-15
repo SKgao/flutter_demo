@@ -15,12 +15,12 @@ class LayoutDemo extends StatelessWidget {
           IconBadge(Icons.poll),
           IconBadge(Icons.beach_access),
           IconBadge(Icons.airplanemode_active),
-          AspectRatio(
-            aspectRatio: 5.0/2.0,
-            child: Container(
-              color: Color.fromRGBO(3, 54, 255, 1),
-            ),
-          ),
+          // AspectRatio(
+          //   aspectRatio: 5.0/2.0,
+          //   child: Container(
+          //     color: Color.fromRGBO(3, 54, 255, 1),
+          //   ),
+          // ),
           ConstrainedBox(
             constraints: BoxConstraints(
               maxWidth: 200.0,

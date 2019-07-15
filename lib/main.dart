@@ -37,7 +37,7 @@ class Home extends StatelessWidget {
           //   tooltip: 'Navigation',
           //   onPressed: () => debugPrint('navigation button is pressed!'),
           // ),
-          title: Text("I'm Zoro"),
+          title: Text("I'm Zoro.qqqq"),
           actions: <Widget>[
             IconButton(
               icon: Icon(Icons.search),
@@ -52,7 +52,7 @@ class Home extends StatelessWidget {
             indicatorSize: TabBarIndicatorSize.label,
             indicatorWeight: 1.0,
             tabs: <Widget>[
-              Tab(icon: Icon(Icons.local_florist)),
+              Tab(icon: Icon(Icons.local_atm)),
               Tab(icon: Icon(Icons.change_history)),
               Tab(icon: Icon(Icons.directions_bike)),
             ],
